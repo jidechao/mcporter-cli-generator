@@ -183,6 +183,6 @@ MIT
 
 ## Related
 
-- [MCPorter](https://github.com/anthropics/mcporter) - The underlying MCP to CLI converter
+- [MCPorter](https://github.com/steipete/mcporter) - The underlying MCP to CLI converter
 - [Claude Code](https://claude.ai/claude-code) - AI-powered coding assistant
 - [MCP Protocol](https://modelcontextprotocol.io/) - Model Context Protocol specification
