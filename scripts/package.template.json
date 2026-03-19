@@ -1,0 +1,26 @@
+{
+  "name": "{{SKILL_NAME}}-skill",
+  "version": "1.0.0",
+  "description": "{{DESCRIPTION}}",
+  "type": "module",
+  "main": "scripts/{{SKILL_NAME}}.js",
+  "bin": {
+    "{{SKILL_NAME}}": "./scripts/{{SKILL_NAME}}.js"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "scripts/"
+  ],
+  "keywords": [
+    "claude-code",
+    "skill",
+    "mcp",
+    "{{SKILL_NAME}}"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
