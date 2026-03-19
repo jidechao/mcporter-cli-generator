@@ -229,6 +229,6 @@ MIT
 
 ## 相关链接
 
-- [MCPorter](https://github.com/anthropics/mcporter) - 底层 MCP 转 CLI 转换器
+- [MCPorter](https://github.com/steipete/mcporter) - 底层 MCP 转 CLI 转换器
 - [Claude Code](https://claude.ai/claude-code) - AI 编程助手
 - [MCP 协议](https://modelcontextprotocol.io/) - 模型上下文协议规范
